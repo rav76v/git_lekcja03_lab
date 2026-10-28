@@ -1,0 +1,1 @@
+print("Nowa funkcjonalność statystyczna")
