@@ -1,1 +1,1 @@
-print("Eksport danych do CSV")
+print("Eksport danych do pliku CSV")
