@@ -1,1 +1,0 @@
-print("Nowa funkcjonalność statystyczna")
