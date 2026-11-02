@@ -1,1 +1,1 @@
-print("Pierwszy raport z analizy danych")
+print("Raport analizy danych gotowy do użycia")
